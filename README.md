@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-CareerPilot AI is an AI-powered career development platform designed to assist professionals in optimizing their job search. It provides intelligent tools to enhance career documents, prepare for interviews, and assess skills through interactive quizzes. By leveraging advanced AI models, CareerPilot AI offers personalized guidance and industry-specific insights to help users navigate the competitive job market effectively.
+CareerPilot AI is an AI-powered career development platform designed to assist professionals in optimizing their career growth. It provides intelligent tools to enhance career documents, prepare for interviews, and assess skills through interactive quizzes. By leveraging advanced AI models, CareerPilot AI offers personalized guidance and industry-specific insights to help users navigate the competitive job market effectively.
 
 ## Features
 
